@@ -1,26 +1,32 @@
 ---
 title: "git_01"
-author: "Math_116"
-date: "Fall semester"
+author: "Jean Shepard"
+date: "Fall 2026"
 output: html_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-# Build a Poem with commits to different branches
+# Build a Poem with commits after each entry
 Our project will be done using a sequence of save and commits and branch actions.
 <!-- Do not modify or change any text in "!--" bracketed areas such as this --- these are instructions to
 you, if you change any of this the git program will notice it and compromise your git merging strategy !-->
 
 ## First Verse 
-<!--Put the first five lines of a poem by Lewis Carrol in this section!-->
+<!--Put the first five lines of a poem by Lewis Carroll in this section!-->
+He thought he saw an Elephant  
+That practised on a fife:  
+He looked again, and found it was  
+A letter from his wife.  
+'At length I realize,' he said,  
+'The bitterness of life! '  
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
 
 ## Third Verse
-<!--Put the first two verses of The Walrus and the Carpenter here!-->
+<!--Put the first two verses of The Walrus and the Carpenter or any other poem here!-->
 
 ## Last Verse
 <!--Put a short poem you created using chatGPT of 20 to 30 lines,here!-->
